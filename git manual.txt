@@ -2,3 +2,10 @@
 2、右键，git bash here
 3、git init
 4、git status
+5、git config --global user.name  "myname"
+6、git config --global user.email "mye@qq.com"
+7、git commit -m "v1"
+8、修改文件
+9、git add .
+10、git commit -m "v2"
+11、git log
