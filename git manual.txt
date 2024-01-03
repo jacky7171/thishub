@@ -7,5 +7,7 @@
 7、git commit -m "v1"
 8、修改文件
 9、git add .
-10、git commit -m "v2"
-11、git log
+10、git commit -m "v2"  //增添版本号
+11、git log  //显示版本号
+12、git reflog  //回显版本历史版本
+13、git reset --hard kjkj;k;lkljlklklkl(版本号）  //回滚至版本号
