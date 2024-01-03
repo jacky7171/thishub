@@ -1,0 +1,4 @@
+1、进入需管理的文件夹
+2、右键，git bash here
+3、git init
+4、git status
