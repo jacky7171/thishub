@@ -11,3 +11,4 @@
 11、git log  //显示版本号
 12、git reflog  //回显版本历史版本
 13、git reset --hard kjkj;k;lkljlklklkl(版本号）  //回滚至版本号
+14、C:\Users\CXT\Downloads\null.png
