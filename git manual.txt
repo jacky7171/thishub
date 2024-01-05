@@ -21,3 +21,4 @@
 21、git remote add origin https://github.com/jacky7171/WOODHUB.git
 22、git push -u origin master
 23、git config --global http.sslVerify false
+24、测试中文版本号
