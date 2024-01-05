@@ -17,8 +17,14 @@
 17、git checkout mybranch 切换分支
 18、git merge mybranch 合并分支，手动修改可能产生的冲突
 19、git branch -d mybranch 删除分支
-20、工作流：稳定版本建在master上，另建dev分支用于开发新功能（稳定后合并入master),另建bug分支用于修改bug（修改完合并入master).
-21、git remote add origin https://github.com/jacky7171/WOODHUB.git
-22、git push -u origin master
+20、工作流：稳定版本建在master上，另建dev分支用于开发新功能（稳定后合并入master),另                  建bug分支用于修改bug（修改完合并入master).
+21、git remote add origin https://github.com/jacky7171/WOODHUB.git  //这里origin只是远程仓库的别名，可以是任意名字。
+22、git push -u origin master//第一次用-u指定默认路径，以后可直接用 git push 推送。
 23、git config --global http.sslVerify false
 24、测试中文版本号
+25、git remote rm origin  删除远程连接的仓库名（待重建）
+26、git remote add origin https://github.com/jacky7171/thishub.git
+27、异地，git clone https://github.com/jacky7171/thishub.git
+28、
+
+
