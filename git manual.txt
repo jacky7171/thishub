@@ -20,4 +20,4 @@
 20、工作流：稳定版本建在master上，另建dev分支用于开发新功能（稳定后合并入master),另建bug分支用于修改bug（修改完合并入master).
 21、git remote add origin https://github.com/jacky7171/WOODHUB.git
 22、git push -u origin master
-
+23、git config --global http.sslVerify false
