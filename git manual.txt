@@ -37,10 +37,6 @@
 33、两端开发的程序，在其中一端pull时会产生分叉，若想避免分叉，可以用：git fetch origin dev        \\    git rebase origin\dev   来替换 pull语句。
 34、git rebase 在合并过程中产生冲突，根据提示解决冲突后，还需加两句：git add .  \\ git rebase --continue
 35、beyond compare 软件方便定位解决冲突
-<<<<<<< HEAD
-36、 ffdsfkjd11111111111
-=======
-36、 ffdsfkjd
->>>>>>> master
+
 
 
