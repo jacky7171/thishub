@@ -38,6 +38,10 @@
 34、git rebase 在合并过程中产生冲突，根据提示解决冲突后，还需加两句：git add .  \\ git rebase --continue
 35、beyond compare 软件方便定位解决冲突
 36、git tag -a v1 -m "第一版”
+37、组织设为origin-cat
+38、git push origin --tags
+39、对别人的代码进行升级修复，可以在GITHUB中先FORK 源代码，将别人的源代码拷贝到自己的远程仓库，然后在自己的仓库修改代码，之后再向源代码作者提交修复申请（pull request).
+
 
 
 
